@@ -14,3 +14,18 @@ h1 {
 html {
     background-color: #F2F2F2;
 }
+
+.flex-container{
+    display: flex;
+}
+
+.flex-item-1{
+    width: 170px;
+    
+}
+
+.flex-item-2{
+    width: 900px;
+    text-align:justify;
+
+}
