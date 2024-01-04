@@ -22,8 +22,10 @@
         </ol>
       </ul>
     </div>
-```
+    \```
+
 <h3><strong>CSS</strong></h3>
+
 ```css
 .flex-container{
     display: flex;
