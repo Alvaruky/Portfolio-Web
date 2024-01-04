@@ -6,7 +6,7 @@
     <div style="background-color: blue;">
       <ul class="flex-container">
         <ol>
-          <a href="https://github.com/Alvaruky">
+          <a href="https://github.com/Alvaruk">
             <img src="assets/img/GitHub-logo.png" alt="Logo_GitHub" class="flex-item-1" />
           </a>
         </ol>
